@@ -1,0 +1,4 @@
+print("Welcome to Emmet's band name generator!")
+street = input("What is the name of the street you grew up on?\n")
+pet = input("What is the name of your pet?\n")
+print("The name of your band is: " + street + " " + pet)
